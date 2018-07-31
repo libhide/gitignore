@@ -81,6 +81,3 @@ proguard/
 
 ## Project Specific files
 /docs
-
-## API_KEY Push Prevention
-Keys.java
